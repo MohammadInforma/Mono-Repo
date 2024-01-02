@@ -1,5 +1,5 @@
-38 error Error: Command failed with exit code 128: git tag v1.0.0 -m v1.0.0
-38 error fatal: tag 'v1.0.0' already exists
+38 error Error: Command failed with exit code 128: git tag v1.0.2 -m v1.0.2
+38 error fatal: tag 'v1.0.2' already exists
 38 error     at makeError (D:\Mono Repo\node_modules\execa\lib\error.js:59:11)
 38 error     at handlePromise (D:\Mono Repo\node_modules\execa\index.js:114:26)
 38 error     at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
