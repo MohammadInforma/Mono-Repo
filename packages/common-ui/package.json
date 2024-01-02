@@ -1,6 +1,7 @@
 {
   "name": "@lerna-practice/common-ui",
   "version": "1.0.4",
+  "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
@@ -34,5 +35,5 @@
       "last 1 safari version"
     ]
   },
-  "gitHead": "d731429c30931f5322e81d996775888845197063"
+  "gitHead": "5d1887312e65fba3b97cec03d328ee870429ecc7"
 }
