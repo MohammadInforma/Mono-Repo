@@ -873,6 +873,15 @@
         "hash": "sha512-SOSkfJDddaM7mak6cPEpswyTRnuRltl429hMraQEglW+OkovnCzsiszTmsrlY//qLFjCpQDFRvjdm2wA5pPm9w=="
       }
     },
+    "npm:@babel/plugin-proposal-private-property-in-object@7.21.11": {
+      "type": "npm",
+      "name": "npm:@babel/plugin-proposal-private-property-in-object@7.21.11",
+      "data": {
+        "version": "7.21.11",
+        "packageName": "@babel/plugin-proposal-private-property-in-object",
+        "hash": "sha512-0QZ8qP/3RLDVBwBFoWAwCtgcDZJVwA5LUJRZU8x2YFfKNuFq161wK3cuGrALu5yiPu+vzwTAg/sMWVNeWeNyaw=="
+      }
+    },
     "npm:@babel/plugin-syntax-async-generators": {
       "type": "npm",
       "name": "npm:@babel/plugin-syntax-async-generators",
@@ -34764,6 +34773,31 @@
     {
       "source": "npm:yargs",
       "target": "npm:yargs-parser",
+      "type": "static"
+    },
+    {
+      "source": "npm:@babel/plugin-proposal-private-property-in-object@7.21.11",
+      "target": "npm:@babel/core",
+      "type": "static"
+    },
+    {
+      "source": "npm:@babel/plugin-proposal-private-property-in-object@7.21.11",
+      "target": "npm:@babel/helper-annotate-as-pure",
+      "type": "static"
+    },
+    {
+      "source": "npm:@babel/plugin-proposal-private-property-in-object@7.21.11",
+      "target": "npm:@babel/helper-create-class-features-plugin",
+      "type": "static"
+    },
+    {
+      "source": "npm:@babel/plugin-proposal-private-property-in-object@7.21.11",
+      "target": "npm:@babel/helper-plugin-utils",
+      "type": "static"
+    },
+    {
+      "source": "npm:@babel/plugin-proposal-private-property-in-object@7.21.11",
+      "target": "npm:@babel/plugin-syntax-private-property-in-object",
       "type": "static"
     }
   ]

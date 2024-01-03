@@ -15,6 +15,14 @@
   "fileMap": {
     "nonProjectFiles": [
       {
+        "file": ".gitignore",
+        "hash": "15406466612298008223"
+      },
+      {
+        "file": "lerna-debug.log",
+        "hash": "10381765790337064164"
+      },
+      {
         "file": "lerna.json",
         "hash": "2799183624333293949"
       },
@@ -24,19 +32,11 @@
       },
       {
         "file": "package-lock.json",
-        "hash": "12880695939467592493"
+        "hash": "1412082512954141875"
       },
       {
         "file": "package.json",
         "hash": "6430508945671411762"
-      },
-      {
-        "file": "lerna-debug.log",
-        "hash": "10381765790337064164"
-      },
-      {
-        "file": ".gitignore",
-        "hash": "8587836968507943632"
       }
     ],
     "projectFileMap": {
@@ -54,16 +54,8 @@
           "hash": "14660972759061565568"
         },
         {
-          "file": "packages/lerna-practice-react/dist/components/Button.js",
-          "hash": "12213437891812764741"
-        },
-        {
-          "file": "packages/lerna-practice-react/dist/lerna-practice-react.js",
-          "hash": "5080442488243734748"
-        },
-        {
           "file": "packages/lerna-practice-react/lib/components/Button.js",
-          "hash": "17415582054094489512"
+          "hash": "4847954672404362695"
         },
         {
           "file": "packages/lerna-practice-react/lib/lerna-practice-react.jsx",
@@ -71,10 +63,11 @@
         },
         {
           "file": "packages/lerna-practice-react/package.json",
-          "hash": "10671738616505351400",
+          "hash": "8183354115218143304",
           "deps": [
             "npm:@babel/cli",
             "npm:@babel/core",
+            "npm:@babel/plugin-proposal-private-property-in-object",
             "npm:@babel/preset-env",
             "npm:@babel/preset-react"
           ]

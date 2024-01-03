@@ -1,8 +1,8 @@
 {
   "run": {
     "command": "cli run build",
-    "startTime": "2024-01-03T12:38:08.155Z",
-    "endTime": "2024-01-03T12:38:22.010Z",
+    "startTime": "2024-01-03T12:54:43.135Z",
+    "endTime": "2024-01-03T12:54:56.611Z",
     "inner": false
   },
   "tasks": [
@@ -10,9 +10,9 @@
       "taskId": "lerna-practice-react:build",
       "target": "build",
       "projectName": "lerna-practice-react",
-      "hash": "13170368912145962012",
-      "startTime": "2024-01-03T12:38:08.183Z",
-      "endTime": "2024-01-03T12:38:22.009Z",
+      "hash": "2349809616723591046",
+      "startTime": "2024-01-03T12:54:43.158Z",
+      "endTime": "2024-01-03T12:54:56.611Z",
       "params": "",
       "cacheStatus": "cache-miss",
       "status": 0
