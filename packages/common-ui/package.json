@@ -35,5 +35,10 @@
       "last 1 safari version"
     ]
   },
-  "gitHead": "5d1887312e65fba3b97cec03d328ee870429ecc7"
+  "gitHead": "5d1887312e65fba3b97cec03d328ee870429ecc7",
+  "devDependencies": {
+    "@babel/core": "^7.23.7",
+    "@babel/preset-env": "^7.23.7",
+    "@babel/preset-react": "^7.23.3"
+  }
 }
