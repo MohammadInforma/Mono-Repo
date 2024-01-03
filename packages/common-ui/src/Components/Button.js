@@ -19,12 +19,12 @@ const Button = (props) => {
 
   return (
     <button
-      style={{...buttonStyles,  ...hoverStyles, ...props.style, width: props.width}}
+      style={{...buttonStyles,  ...hoverStyles, ...props?.style, width: props?.width}}
       onMouseEnter={(e) => e.target.style.background = hoverStyles.background}
       onMouseLeave={(e) => e.target.style.background = buttonStyles.background}
       {...props}
     >
-      {props.children}
+      {props?.children}
     </button>
   );
 };
