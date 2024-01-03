@@ -19,7 +19,8 @@
   },
   "scripts": {
     "test": "node ./__tests__/lerna-practice-react.test.js",
-    "build": "babel lib -d dist"
+    "build": "babel lib -d dist",
+    "prepublish": "lerna run build"
   },
   "bugs": {
     "url": "https://github.com/MohammadInforma/Mono-Repo/issues"

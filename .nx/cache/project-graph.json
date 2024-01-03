@@ -32,6 +32,13 @@
             },
             "configurations": {}
           },
+          "prepublish": {
+            "executor": "nx:run-script",
+            "options": {
+              "script": "prepublish"
+            },
+            "configurations": {}
+          },
           "nx-release-publish": {
             "dependsOn": [
               "^nx-release-publish"
@@ -14233,7 +14240,28 @@
     }
   },
   "dependencies": {
-    "lerna-practice-react": [],
+    "lerna-practice-react": [
+      {
+        "source": "lerna-practice-react",
+        "target": "npm:@babel/cli",
+        "type": "static"
+      },
+      {
+        "source": "lerna-practice-react",
+        "target": "npm:@babel/core",
+        "type": "static"
+      },
+      {
+        "source": "lerna-practice-react",
+        "target": "npm:@babel/preset-env",
+        "type": "static"
+      },
+      {
+        "source": "lerna-practice-react",
+        "target": "npm:@babel/preset-react",
+        "type": "static"
+      }
+    ],
     "npm:@ampproject/remapping": [
       {
         "source": "npm:@ampproject/remapping",
