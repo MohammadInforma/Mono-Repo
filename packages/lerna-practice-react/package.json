@@ -5,7 +5,7 @@
   "keywords": [],
   "author": "Vempalli Mohammad",
   "license": "ISC",
-  "main": "lib/lerna-practice-react.js",
+  "main": "dist/lerna-practice-react.js",
   "directories": {
     "lib": "lib",
     "test": "__tests__"
@@ -24,5 +24,11 @@
   "bugs": {
     "url": "https://github.com/MohammadInforma/Mono-Repo/issues"
   },
-  "homepage": "https://github.com/MohammadInforma/Mono-Repo#readme"
+  "homepage": "https://github.com/MohammadInforma/Mono-Repo#readme",
+  "dependencies": {
+    "@babel/cli": "^7.23.4",
+    "@babel/core": "^7.23.7",
+    "@babel/preset-env": "^7.23.7",
+    "@babel/preset-react": "^7.23.3"
+  }
 }
