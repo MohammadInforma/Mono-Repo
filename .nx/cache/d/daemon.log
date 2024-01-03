@@ -41,3 +41,39 @@
 [NX Daemon Server] - 2024-01-03T12:14:25.413Z - Done responding to the client handleRequestFileData
 [NX Daemon Server] - 2024-01-03T12:14:25.414Z - Handled REQUEST_FILE_DATA. Handling time: 0. Response time: 1.
 [NX Daemon Server] - 2024-01-03T12:14:28.497Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2024-01-03T12:15:26.221Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-01-03T12:15:26.223Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2024-01-03T12:15:26.223Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-01-03T12:15:26.232Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2024-01-03T12:15:26.233Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2024-01-03T12:15:26.238Z - Time taken for 'total for creating and serializing project graph' 0.902899980545044ms
+[NX Daemon Server] - 2024-01-03T12:15:26.239Z - Done responding to the client project-graph
+[NX Daemon Server] - 2024-01-03T12:15:26.239Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 1. Response time: 6.
+[NX Daemon Server] - 2024-01-03T12:15:26.265Z - [REQUEST]: Responding to the client. handleRequestFileData
+[NX Daemon Server] - 2024-01-03T12:15:26.266Z - Done responding to the client handleRequestFileData
+[NX Daemon Server] - 2024-01-03T12:15:26.266Z - Handled REQUEST_FILE_DATA. Handling time: 0. Response time: 1.
+[NX Daemon Server] - 2024-01-03T12:15:29.851Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2024-01-03T12:18:30.368Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-01-03T12:18:30.376Z - [WATCHER]: packages/lerna-practice-react/lib/components/Button.js was modified
+[NX Daemon Server] - 2024-01-03T12:18:30.493Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-01-03T12:18:30.493Z - [REQUEST]: packages/lerna-practice-react/lib/components/Button.js
+[NX Daemon Server] - 2024-01-03T12:18:30.493Z - [REQUEST]: 
+[NX Daemon Server] - 2024-01-03T12:18:30.647Z - Time taken for 'hash changed files from watcher' 1.8071000576019287ms
+[NX Daemon Server] - 2024-01-03T12:19:22.814Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-01-03T12:19:22.815Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2024-01-03T12:19:22.815Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-01-03T12:19:22.846Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2024-01-03T12:19:22.847Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2024-01-03T12:19:22.848Z - Time taken for 'total for creating and serializing project graph' 0.36949992179870605ms
+[NX Daemon Server] - 2024-01-03T12:19:22.849Z - Done responding to the client project-graph
+[NX Daemon Server] - 2024-01-03T12:19:22.849Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 1. Response time: 2.
+[NX Daemon Server] - 2024-01-03T12:19:22.860Z - [REQUEST]: Responding to the client. handleRequestFileData
+[NX Daemon Server] - 2024-01-03T12:19:22.860Z - Done responding to the client handleRequestFileData
+[NX Daemon Server] - 2024-01-03T12:19:22.860Z - Handled REQUEST_FILE_DATA. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-01-03T12:19:27.074Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2024-01-03T12:19:58.063Z - [WATCHER]: packages/lerna-practice-react/package.json was modified
+[NX Daemon Server] - 2024-01-03T12:19:58.063Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-01-03T12:19:58.180Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-01-03T12:19:58.180Z - [REQUEST]: packages/lerna-practice-react/package.json
+[NX Daemon Server] - 2024-01-03T12:19:58.180Z - [REQUEST]: 
+[NX Daemon Server] - 2024-01-03T12:19:58.331Z - Time taken for 'hash changed files from watcher' 1.8981001377105713ms
