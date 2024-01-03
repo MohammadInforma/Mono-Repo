@@ -1,0 +1,79 @@
+{
+  "version": "6.0",
+  "nxVersion": "17.2.8",
+  "deps": {
+    "react": "^18.2.0",
+    "react-scripts": "^5.0.1",
+    "@babel/cli": "^7.23.4",
+    "@babel/core": "^7.23.7",
+    "@babel/preset-env": "^7.23.7",
+    "@babel/preset-react": "^7.23.3",
+    "lerna": "^8.0.1"
+  },
+  "pathMappings": {},
+  "nxJsonPlugins": [],
+  "fileMap": {
+    "nonProjectFiles": [
+      {
+        "file": ".gitignore",
+        "hash": "8587836968507943632"
+      },
+      {
+        "file": "lerna-debug.log",
+        "hash": "10381765790337064164"
+      },
+      {
+        "file": "lerna.json",
+        "hash": "10103807227710408622"
+      },
+      {
+        "file": "nx.json",
+        "hash": "30904278045471790"
+      },
+      {
+        "file": "package-lock.json",
+        "hash": "10338026942370574421"
+      },
+      {
+        "file": "package.json",
+        "hash": "10782934677898316606"
+      }
+    ],
+    "projectFileMap": {
+      "lerna-practice-react": [
+        {
+          "file": "packages/lerna-practice-react/.babelrc",
+          "hash": "14214721757954390462"
+        },
+        {
+          "file": "packages/lerna-practice-react/README.md",
+          "hash": "6849996410347331468"
+        },
+        {
+          "file": "packages/lerna-practice-react/__tests__/lerna-practice-react.test.js",
+          "hash": "14660972759061565568"
+        },
+        {
+          "file": "packages/lerna-practice-react/dist/components/Button.js",
+          "hash": "6432062826587232894"
+        },
+        {
+          "file": "packages/lerna-practice-react/dist/lerna-practice-react.js",
+          "hash": "5080442488243734748"
+        },
+        {
+          "file": "packages/lerna-practice-react/lib/components/Button.js",
+          "hash": "18029232964949904719"
+        },
+        {
+          "file": "packages/lerna-practice-react/lib/lerna-practice-react.jsx",
+          "hash": "539700335712107493"
+        },
+        {
+          "file": "packages/lerna-practice-react/package.json",
+          "hash": "7197030542307777358"
+        }
+      ]
+    }
+  }
+}

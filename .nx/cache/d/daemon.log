@@ -1,0 +1,26 @@
+[NX Daemon Server] - 2024-01-03T12:13:12.221Z - Started listening on: \\.\pipe\nx\C:\Users\VEMPAL~1.MOH\AppData\Local\Temp\14b76cb92d7dfb7fcabc\d.sock
+[NX Daemon Server] - 2024-01-03T12:13:12.231Z - [WATCHER]: Subscribed to changes within: D:\Mono Repo (native)
+[NX Daemon Server] - 2024-01-03T12:13:12.234Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-01-03T12:13:12.238Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2024-01-03T12:13:12.239Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-01-03T12:13:12.247Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2024-01-03T12:13:12.336Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-01-03T12:13:12.337Z - [REQUEST]: 
+[NX Daemon Server] - 2024-01-03T12:13:12.337Z - [REQUEST]: 
+[NX Daemon Server] - 2024-01-03T12:13:12.915Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2024-01-03T12:13:12.918Z - Time taken for 'total for creating and serializing project graph' 667.9539999961853ms
+[NX Daemon Server] - 2024-01-03T12:13:12.918Z - Done responding to the client project-graph
+[NX Daemon Server] - 2024-01-03T12:13:12.918Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 668. Response time: 3.
+[NX Daemon Server] - 2024-01-03T12:13:12.928Z - [REQUEST]: Responding to the client. handleRequestFileData
+[NX Daemon Server] - 2024-01-03T12:13:12.928Z - Done responding to the client handleRequestFileData
+[NX Daemon Server] - 2024-01-03T12:13:12.928Z - Handled REQUEST_FILE_DATA. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-01-03T12:13:37.065Z - [WATCHER]: 1 file(s) created or restored, 1 file(s) modified, 1 file(s) deleted
+[NX Daemon Server] - 2024-01-03T12:13:37.066Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-01-03T12:13:37.172Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-01-03T12:13:37.172Z - [REQUEST]: packages/lerna-practice-react/package.json,lerna.json
+[NX Daemon Server] - 2024-01-03T12:13:37.173Z - [REQUEST]: packages/lerna-practice-react/package.json.1835883454
+[NX Daemon Server] - 2024-01-03T12:13:37.316Z - Time taken for 'hash changed files from watcher' 1.4804999828338623ms
+[NX Daemon Server] - 2024-01-03T12:13:47.097Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-01-03T12:13:47.110Z - [WATCHER]: Stopping the watcher for D:\Mono Repo (sources)
+[NX Daemon Server] - 2024-01-03T12:13:47.110Z - [WATCHER]: Stopping the watcher for D:\Mono Repo (outputs)
+[NX Daemon Server] - 2024-01-03T12:13:47.110Z - Server stopped because: "Lock file changed"
