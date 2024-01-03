@@ -15,6 +15,10 @@
   "fileMap": {
     "nonProjectFiles": [
       {
+        "file": "package-lock.json",
+        "hash": "10338026942370574421"
+      },
+      {
         "file": ".gitignore",
         "hash": "8587836968507943632"
       },
@@ -23,20 +27,16 @@
         "hash": "10381765790337064164"
       },
       {
+        "file": "package.json",
+        "hash": "10782934677898316606"
+      },
+      {
         "file": "lerna.json",
         "hash": "10103807227710408622"
       },
       {
         "file": "nx.json",
         "hash": "30904278045471790"
-      },
-      {
-        "file": "package-lock.json",
-        "hash": "10338026942370574421"
-      },
-      {
-        "file": "package.json",
-        "hash": "10782934677898316606"
       }
     ],
     "projectFileMap": {
@@ -63,7 +63,7 @@
         },
         {
           "file": "packages/lerna-practice-react/lib/components/Button.js",
-          "hash": "18029232964949904719"
+          "hash": "17415582054094489512"
         },
         {
           "file": "packages/lerna-practice-react/lib/lerna-practice-react.jsx",

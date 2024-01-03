@@ -24,3 +24,20 @@
 [NX Daemon Server] - 2024-01-03T12:13:47.110Z - [WATCHER]: Stopping the watcher for D:\Mono Repo (sources)
 [NX Daemon Server] - 2024-01-03T12:13:47.110Z - [WATCHER]: Stopping the watcher for D:\Mono Repo (outputs)
 [NX Daemon Server] - 2024-01-03T12:13:47.110Z - Server stopped because: "Lock file changed"
+[NX Daemon Server] - 2024-01-03T12:14:24.902Z - Started listening on: \\.\pipe\nx\C:\Users\VEMPAL~1.MOH\AppData\Local\Temp\14b76cb92d7dfb7fcabc\d.sock
+[NX Daemon Server] - 2024-01-03T12:14:24.910Z - [WATCHER]: Subscribed to changes within: D:\Mono Repo (native)
+[NX Daemon Server] - 2024-01-03T12:14:24.912Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-01-03T12:14:24.916Z - Established a connection. Number of open connections: 2
+[NX Daemon Server] - 2024-01-03T12:14:24.920Z - Closed a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-01-03T12:14:24.926Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2024-01-03T12:14:24.960Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-01-03T12:14:24.961Z - [REQUEST]: 
+[NX Daemon Server] - 2024-01-03T12:14:24.961Z - [REQUEST]: 
+[NX Daemon Server] - 2024-01-03T12:14:25.395Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2024-01-03T12:14:25.398Z - Time taken for 'total for creating and serializing project graph' 469.0795998573303ms
+[NX Daemon Server] - 2024-01-03T12:14:25.398Z - Done responding to the client project-graph
+[NX Daemon Server] - 2024-01-03T12:14:25.399Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 470. Response time: 4.
+[NX Daemon Server] - 2024-01-03T12:14:25.413Z - [REQUEST]: Responding to the client. handleRequestFileData
+[NX Daemon Server] - 2024-01-03T12:14:25.413Z - Done responding to the client handleRequestFileData
+[NX Daemon Server] - 2024-01-03T12:14:25.414Z - Handled REQUEST_FILE_DATA. Handling time: 0. Response time: 1.
+[NX Daemon Server] - 2024-01-03T12:14:28.497Z - Closed a connection. Number of open connections: 0
