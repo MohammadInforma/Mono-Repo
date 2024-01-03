@@ -1,0 +1,5 @@
+
+> lerna-practice-react@0.2.1 build
+> babel lib -d dist
+
+Successfully compiled 2 files with Babel (5035ms).

@@ -15,28 +15,28 @@
   "fileMap": {
     "nonProjectFiles": [
       {
+        "file": "lerna.json",
+        "hash": "2799183624333293949"
+      },
+      {
         "file": "nx.json",
         "hash": "30904278045471790"
       },
       {
-        "file": "lerna-debug.log",
-        "hash": "10381765790337064164"
+        "file": "package-lock.json",
+        "hash": "12880695939467592493"
       },
       {
         "file": "package.json",
         "hash": "6430508945671411762"
       },
       {
+        "file": "lerna-debug.log",
+        "hash": "10381765790337064164"
+      },
+      {
         "file": ".gitignore",
         "hash": "8587836968507943632"
-      },
-      {
-        "file": "package-lock.json",
-        "hash": "6789063487586740825"
-      },
-      {
-        "file": "lerna.json",
-        "hash": "9052193010183831762"
       }
     ],
     "projectFileMap": {
@@ -71,7 +71,7 @@
         },
         {
           "file": "packages/lerna-practice-react/package.json",
-          "hash": "9697327273097208944",
+          "hash": "10671738616505351400",
           "deps": [
             "npm:@babel/cli",
             "npm:@babel/core",

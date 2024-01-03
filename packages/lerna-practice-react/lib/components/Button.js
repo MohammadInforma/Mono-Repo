@@ -1,8 +1,8 @@
 import React from 'react'
 
-const Button = ({props}) => {
+const Button = (props) => {
   return (
-    <button {...props} style={{background: "red", color: 'white'}}>{props.children}</button>
+    <button {...props} style={{background: "red", color: 'white'}}>{props?.children}</button>
   )
 }
 
